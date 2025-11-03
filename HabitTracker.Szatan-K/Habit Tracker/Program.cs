@@ -447,7 +447,7 @@ namespace Habit_Tracker
                 }
                 Console.WriteLine("Insert type's name again: (name must start with a letter and can not contain any spaces)");
                 tableName = Console.ReadLine();
-            };
+            }
             tableName = tableName.ToLower();
             string sqlCommand = $"CREATE TABLE IF NOT EXISTS {tableName}(" +
                 $"Id INTEGER PRIMARY KEY AUTOINCREMENT," +

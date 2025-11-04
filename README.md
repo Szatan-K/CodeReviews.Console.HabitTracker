@@ -17,7 +17,9 @@ This is a simple console-based application that helps build and maintain your ha
 ## Screenshots
 
 - Main Menu
-
-
+<img width="350" height="237" alt="HabitTrackerMainMenu" src="https://github.com/user-attachments/assets/120c14c5-6975-46a2-b8b9-1742fbc54e3e" />
 
 - View of records
+<img width="517" height="584" alt="HabitTrackerView" src="https://github.com/user-attachments/assets/db025e29-100b-4f24-a694-0b730569d9da" />
+
+  
